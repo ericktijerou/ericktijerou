@@ -14,7 +14,7 @@
 </a>
 <br />
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/ericktijerou/ericktijerou/master/gifs/dev.gif" />
+<img align="right" width="40%" src="https://raw.githubusercontent.com/ericktijerou/ericktijerou/master/gifs/dev.gif" />
 
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/ericktijerou/ericktijerou/master/gifs/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ericktijerou.ericktijerou&style=flat-square&color=0088cc)
 
